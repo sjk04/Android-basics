@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!src/**/build/
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Android build artifacts
+*.aab
+*.apk
+output-metadata.json
+
+# Android native build
+.externalNativeBuild/
+.cxx/
+
+# Captures
+captures/
+
+# Kotlin
+.kotlin
+
+# Keystores
+*.jks
+*.keystore
+
+# Firebase / Google services
+google-services.json
+
+# Android profiler
+*.hprof

@@ -1,0 +1,6 @@
+//generics
+
+fun main()
+{
+
+}
